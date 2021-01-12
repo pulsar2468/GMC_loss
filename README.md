@@ -1,4 +1,4 @@
-# GMC_loss
+# GMC Loss
 Our intuition is based on the idea that data might follow a multimodal distribution.
 In this repository, we propose a loss function called Gaussian Mixture’s Centers loss (GMC) leveraging on the idea that data follow multiple unimodal distributions and try to reduce variances considering many centers per class.
 It increases the discrimination capability to identify class similarity structures.
